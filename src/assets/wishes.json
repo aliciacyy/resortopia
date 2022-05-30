@@ -1,0 +1,877 @@
+[
+  {
+    "id": 101,
+    "wish": "The protagonist doesn't have to look good, but the story has to be interesting!",
+    "genre": "Drama"
+  },
+  {
+    "id": 102,
+    "wish": "Wanna watch a movie with an epic story!",
+    "genre": "Drama"
+  },
+  {
+    "id": 103,
+    "wish": "Wanna see an interesting movie with a tight plot.",
+    "genre": "Drama"
+  },
+  {
+    "id": 104,
+    "wish": "I really wanna watch a movie with a terrific plot.",
+    "genre": "Drama"
+  },
+  {
+    "id": 105,
+    "wish": "A movie with great acting, plz!",
+    "genre": "Drama"
+  },
+  {
+    "id": 106,
+    "wish": "I heard this one has an amazing twist. I really wanna watch it.",
+    "genre": "Drama"
+  },
+  {
+    "id": 107,
+    "wish": "This movie is already blowing up on the internet.",
+    "genre": "Drama"
+  },
+  {
+    "id": 201,
+    "wish": "Wanna watch an exciting adventure.",
+    "genre": "Adventure"
+  },
+  {
+    "id": 202,
+    "wish": "I'm really into the mystery and thrill of the unknown.",
+    "genre": "Adventure"
+  },
+  {
+    "id": 203,
+    "wish": "Wanna watch a great masterpiece about a journey.",
+    "genre": "Adventure"
+  },
+  {
+    "id": 204,
+    "wish": "Yearning for a glamorous journey.",
+    "genre": "Adventure"
+  },
+  {
+    "id": 205,
+    "wish": "I want to see a great actor's risky magnum opus.",
+    "genre": "Adventure"
+  },
+  {
+    "id": 206,
+    "wish": "I want to explore the unknown with the protagonist. It's going to be thrilling.",
+    "genre": "Adventure"
+  },
+  {
+    "id": 207,
+    "wish": "Our ultimate destination is the great unknown!",
+    "genre": "Adventure"
+  },
+  {
+    "id": 301,
+    "wish": "What's better than laughing happily?",
+    "genre": "Comedy"
+  },
+  {
+    "id": 302,
+    "wish": "I love watching outlandish comedy!",
+    "genre": "Comedy"
+  },
+  {
+    "id": 303,
+    "wish": "I'm in short supply of laughter right now.",
+    "genre": "Comedy"
+  },
+  {
+    "id": 304,
+    "wish": "I haven't had a good laugh in a long time. I'd love to experience it again.",
+    "genre": "Comedy"
+  },
+  {
+    "id": 305,
+    "wish": "Happiness is the most important thing in life.",
+    "genre": "Comedy"
+  },
+  {
+    "id": 306,
+    "wish": "If I laugh hard enough, does it count as an ab workout? I just wanna laugh hard enough",
+    "genre": "Comedy"
+  },
+  {
+    "id": 307,
+    "wish": "My friend went through a break-up recently. We're in urgent need of something happy.",
+    "genre": "Comedy"
+  },
+  {
+    "id": 401,
+    "wish": "I want to watch a fun movie for all ages.",
+    "genre": "Animation"
+  },
+  {
+    "id": 402,
+    "wish": "My kids like this movie too.",
+    "genre": "Animation"
+  },
+  {
+    "id": 403,
+    "wish": "There's something feel-good about colorful worlds. I'm looking forward to it.",
+    "genre": "Animation"
+  },
+  {
+    "id": 404,
+    "wish": "I'm looking for a movie that's about childhood joy and delights.",
+    "genre": "Animation"
+  },
+  {
+    "id": 405,
+    "wish": "I want to bring my kids with me to the movie!",
+    "genre": "Animation"
+  },
+  {
+    "id": 406,
+    "wish": "This was my favorite film as a child. I'm looking forward to revisiting it.",
+    "genre": "Animation"
+  },
+  {
+    "id": 407,
+    "wish": "I love the style of this movie. It's so cute.",
+    "genre": "Animation"
+  },
+  {
+    "id": 501,
+    "wish": "Wanna watch a true story full of happiness and sadness!",
+    "genre": "Biography"
+  },
+  {
+    "id": 502,
+    "wish": "Wanna witness the legendary life of the protagonist on the screen.",
+    "genre": "Biography"
+  },
+  {
+    "id": 503,
+    "wish": "I've heard about the real-life story this movie is based on.",
+    "genre": "Biography"
+  },
+  {
+    "id": 504,
+    "wish": "What he went through was really moving.",
+    "genre": "Biography"
+  },
+  {
+    "id": 505,
+    "wish": "Her story would make for a great movie.",
+    "genre": "Biography"
+  },
+  {
+    "id": 506,
+    "wish": "I want to follow along with the protagonist's struggles.",
+    "genre": "Biography"
+  },
+  {
+    "id": 507,
+    "wish": "I never knew a person's life could get so bizarre.",
+    "genre": "Biography"
+  },
+  {
+    "id": 601,
+    "wish": "Seeing such extraordinary powers and technology was an eye-opening experience!",
+    "genre": "Sci-Fi"
+  },
+  {
+    "id": 602,
+    "wish": "I get to see how far technology has come with these top-notch visuals and sound effects.",
+    "genre": "Sci-Fi"
+  },
+  {
+    "id": 603,
+    "wish": "I adore sci-fi and fantasy worlds!",
+    "genre": "Sci-Fi"
+  },
+  {
+    "id": 604,
+    "wish": "I was taken in by the surreal visuals in the trailer. I won’t miss it!",
+    "genre": "Sci-Fi"
+  },
+  {
+    "id": 605,
+    "wish": "I want to explore the mysteries of space-time through stories on the big screen.",
+    "genre": "Sci-Fi"
+  },
+  {
+    "id": 606,
+    "wish": "I'm fascinated by the drive to explore the unknown.",
+    "genre": "Sci-Fi"
+  },
+  {
+    "id": 607,
+    "wish": "I'd like to watch a film that fills in what could happen in space.",
+    "genre": "Sci-Fi"
+  },
+  {
+    "id": 701,
+    "wish": "I'd love to experience that kind of earth-shattering love for myself.",
+    "genre": "Romance"
+  },
+  {
+    "id": 702,
+    "wish": "I hope love finds me too after this flick.",
+    "genre": "Romance"
+  },
+  {
+    "id": 703,
+    "wish": "Today's another good day to root for a sweet couple's love life.",
+    "genre": "Romance"
+  },
+  {
+    "id": 704,
+    "wish": "I'm super drawn to stories that are simultaneously sweet and touching.",
+    "genre": "Romance"
+  },
+  {
+    "id": 705,
+    "wish": "Going on my first date with a hot guy. What movie should we watch?",
+    "genre": "Romance"
+  },
+  {
+    "id": 706,
+    "wish": "If only I could take the female lead's place in the film and be in love with the male lead instead.",
+    "genre": "Romance"
+  },
+  {
+    "id": 707,
+    "wish": "Life's been rough. I want to watch something sweet.",
+    "genre": "Romance"
+  },
+  {
+    "id": 801,
+    "wish": "Woohoo! A whole new world of imagination just for me to enjoy!",
+    "genre": "Fantasy"
+  },
+  {
+    "id": 802,
+    "wish": "I want to watch a movie that contains magic or supernatural elements!",
+    "genre": "Fantasy"
+  },
+  {
+    "id": 803,
+    "wish": "What a grotesque and colorful storyline. It's brilliant!",
+    "genre": "Fantasy"
+  },
+  {
+    "id": 804,
+    "wish": "The only way to live out my fantasies of becoming a magician is through movies.",
+    "genre": "Fantasy"
+  },
+  {
+    "id": 805,
+    "wish": "I want to have superpowers like the protagonist in the film!",
+    "genre": "Fantasy"
+  },
+  {
+    "id": 806,
+    "wish": "I'm sure magic exists somewhere in the world.",
+    "genre": "Fantasy"
+  },
+  {
+    "id": 807,
+    "wish": "This is that infamous epic fantasy saga!",
+    "genre": "Fantasy"
+  },
+  {
+    "id": 901,
+    "wish": "The world needs more heroes!",
+    "genre": "Hero"
+  },
+  {
+    "id": 902,
+    "wish": "I've been following the series since the first film. I love watching him save the world.",
+    "genre": "Hero"
+  },
+  {
+    "id": 903,
+    "wish": "I love movies that have the same feel as ultraman.",
+    "genre": "Hero"
+  },
+  {
+    "id": 904,
+    "wish": "Did the protagonist unlock a new superpower?",
+    "genre": "Hero"
+  },
+  {
+    "id": 905,
+    "wish": "The super villain in this movie seems super powerful. Can the protagonist win?",
+    "genre": "Hero"
+  },
+  {
+    "id": 906,
+    "wish": "I feel safe knowing they're the ones protecting the world.",
+    "genre": "Hero"
+  },
+  {
+    "id": 907,
+    "wish": "I want to be moved by their powerful friendship, beliefs, and sense of justice.",
+    "genre": "Hero"
+  },
+  {
+    "id": 1001,
+    "wish": "Oh, my heart is aflutter when I look into their eyes.",
+    "genre": "Animals"
+  },
+  {
+    "id": 1002,
+    "wish": "These cute fuzzy angels are always at our side!",
+    "genre": "Animals"
+  },
+  {
+    "id": 1003,
+    "wish": "I can't resist cute animals.",
+    "genre": "Animals"
+  },
+  {
+    "id": 1004,
+    "wish": "I have a soft spot for heartwarming movies like this after having a pet of my own.",
+    "genre": "Animals"
+  },
+  {
+    "id": 1005,
+    "wish": "Really wanna explore the forest with the adorable fuzzy protagonist.",
+    "genre": "Animals"
+  },
+  {
+    "id": 1006,
+    "wish": "I have pets of my own, so I love this kind of film.",
+    "genre": "Animals"
+  },
+  {
+    "id": 1007,
+    "wish": "As a petkeeper, I find I can better relate to movies about them.",
+    "genre": "Animals"
+  },
+  {
+    "id": 1101,
+    "wish": "The intense fight scenes in the trailer are visually stunning.",
+    "genre": "Action"
+  },
+  {
+    "id": 1102,
+    "wish": "I want to watch a movie that gives me an adrenaline rush!",
+    "genre": "Action"
+  },
+  {
+    "id": 1103,
+    "wish": "I don’t have the courage to do such dangerous things in real life, but I can experience them in movies vicariously!",
+    "genre": "Action"
+  },
+  {
+    "id": 1104,
+    "wish": "I love, love his movies! He's got smooth moves and lightning quick reflexes!",
+    "genre": "Action"
+  },
+  {
+    "id": 1105,
+    "wish": "Everything he does is so realistic. I watch every movie he's in.",
+    "genre": "Action"
+  },
+  {
+    "id": 1106,
+    "wish": "I want to watch hot, buff guys fight against each other. Hehe.",
+    "genre": "Action"
+  },
+  {
+    "id": 1107,
+    "wish": "I've gotten distracted staring at the protagonist in the poster several times. He's so hot.",
+    "genre": "Action"
+  },
+  {
+    "id": 1201,
+    "wish": "I heard this movie will let you laugh till you cry, and then laugh again.",
+    "genre": "Comforting"
+  },
+  {
+    "id": 1202,
+    "wish": "Today sucked. Hoping to find a movie to ease my mood.",
+    "genre": "Comforting"
+  },
+  {
+    "id": 1203,
+    "wish": "Just wanna experience something warm and full of hope.",
+    "genre": "Comforting"
+  },
+  {
+    "id": 1204,
+    "wish": "A friend recommended this film. Says it beautiful and heartwarming.",
+    "genre": "Comforting"
+  },
+  {
+    "id": 1205,
+    "wish": "I've been feeling a little sad, so I'm looking for a little pick-me-up.",
+    "genre": "Comforting"
+  },
+  {
+    "id": 1206,
+    "wish": "I'm looking for a masterpiece that shows how good life can be.",
+    "genre": "Comforting"
+  },
+  {
+    "id": 1207,
+    "wish": "The movie places emphasis on what one can achieve by being gentle. I'm looking forward to it.",
+    "genre": "Comforting"
+  },
+  {
+    "id": 1301,
+    "wish": "It's a 100% tear-jerker no matter how many times you watch it.",
+    "genre": "Touching"
+  },
+  {
+    "id": 1302,
+    "wish": "Warm yet heartbreaking. My favorite.",
+    "genre": "Touching"
+  },
+  {
+    "id": 1303,
+    "wish": "Wanna cry my heart out.",
+    "genre": "Touching"
+  },
+  {
+    "id": 1304,
+    "wish": "I don't cry easily. Give me the best tear-jerker you've got.",
+    "genre": "Touching"
+  },
+  {
+    "id": 1305,
+    "wish": "This is my third viewing. I find something new to cry over every time.",
+    "genre": "Touching"
+  },
+  {
+    "id": 1306,
+    "wish": "I've brought tissues for my tears. I'm ready!",
+    "genre": "Touching"
+  },
+  {
+    "id": 1307,
+    "wish": "Crying is a great stress reliever, you know. I need this film now.",
+    "genre": "Touching"
+  },
+  {
+    "id": 1401,
+    "wish": "I can relate to the characters in movies that take place in office buildings.",
+    "genre": "Urban"
+  },
+  {
+    "id": 1402,
+    "wish": "I like seeing how the protagonists deal with the ups and downs in their life.",
+    "genre": "Urban"
+  },
+  {
+    "id": 1403,
+    "wish": "I'm curious if they'll introduce something new to these movies about city life.",
+    "genre": "Urban"
+  },
+  {
+    "id": 1404,
+    "wish": "I like watching movies that take place in this bustling world.",
+    "genre": "Urban"
+  },
+  {
+    "id": 1405,
+    "wish": "Everyone appreciates a busy life in their own way.",
+    "genre": "Urban"
+  },
+  {
+    "id": 1406,
+    "wish": "Wanna watch a story about the common people in a bustling city.",
+    "genre": "Urban"
+  },
+  {
+    "id": 1407,
+    "wish": "I like stories that take place in modern cities. It feels realistic.",
+    "genre": "Urban"
+  },
+  {
+    "id": 1501,
+    "wish": "I heard there's a movie with a masterful soundtrack?",
+    "genre": "Music"
+  },
+  {
+    "id": 1502,
+    "wish": "I'm here for the original soundtrack!",
+    "genre": "Music"
+  },
+  {
+    "id": 1503,
+    "wish": "I've listened to the soundtrack before coming to watch it.",
+    "genre": "Music"
+  },
+  {
+    "id": 1504,
+    "wish": "I love a movie that applies music to accentuate the protagonist's emotions.",
+    "genre": "Music"
+  },
+  {
+    "id": 1505,
+    "wish": "I'm really into soundtracks. I'm hoping some movies can deliver good ones.",
+    "genre": "Music"
+  },
+  {
+    "id": 1506,
+    "wish": "Do you know any movies I can sing along to?",
+    "genre": "Music"
+  },
+  {
+    "id": 1507,
+    "wish": "I want to immerse myself in music while watching a movie.",
+    "genre": "Music"
+  },
+  {
+    "id": 1601,
+    "wish": "This director has a tendency of only revealing the story at the last minute.",
+    "genre": "Suspense"
+  },
+  {
+    "id": 1602,
+    "wish": "That was amazing! I'd watch it even if it gives me nightmares!",
+    "genre": "Suspense"
+  },
+  {
+    "id": 1603,
+    "wish": "Any movie that requires high intelligence and deductive skills?",
+    "genre": "Suspense"
+  },
+  {
+    "id": 1604,
+    "wish": "Wanna watch a movie that challenges my intellect!",
+    "genre": "Suspense"
+  },
+  {
+    "id": 1605,
+    "wish": "Wanna watch a movie with an unpredictable ending!",
+    "genre": "Suspense"
+  },
+  {
+    "id": 1606,
+    "wish": "Who's the real culprit behind everything?",
+    "genre": "Suspense"
+  },
+  {
+    "id": 1607,
+    "wish": "I love amazing plot twists. It keeps me guessing the whole time.",
+    "genre": "Suspense"
+  },
+  {
+    "id": 1701,
+    "wish": "I want to watch a movie where humans defeat nature.",
+    "genre": "Disaster"
+  },
+  {
+    "id": 1702,
+    "wish": "Wanna discover the meaning of life in a disaster movie.",
+    "genre": "Disaster"
+  },
+  {
+    "id": 1703,
+    "wish": "Will the protagonist be able to survive?",
+    "genre": "Disaster"
+  },
+  {
+    "id": 1704,
+    "wish": "Sudden disasters are thrilling to watch.",
+    "genre": "Disaster"
+  },
+  {
+    "id": 1705,
+    "wish": "Maybe I'll learn something about what to do in a disaster from the movie.",
+    "genre": "Disaster"
+  },
+  {
+    "id": 1706,
+    "wish": "I wanna watch a suspenseful doomsday movie.",
+    "genre": "Disaster"
+  },
+  {
+    "id": 1707,
+    "wish": "I love to see the beauty of humanity in the face of tragedy.",
+    "genre": "Disaster"
+  },
+  {
+    "id": 1801,
+    "wish": "The poster makes me wanna dance with the protagonist.",
+    "genre": "Musical"
+  },
+  {
+    "id": 1802,
+    "wish": "I love the classic and elegant choreograph, so attractive.",
+    "genre": "Musical"
+  },
+  {
+    "id": 1803,
+    "wish": "The actor's voice and dance moves stole my heart away.",
+    "genre": "Musical"
+  },
+  {
+    "id": 1804,
+    "wish": "I want to dance alongside the protagonist on the big screen.",
+    "genre": "Musical"
+  },
+  {
+    "id": 1805,
+    "wish": "Ohh, I want to be moved to tears by gorgeous dance moves today!",
+    "genre": "Musical"
+  },
+  {
+    "id": 1806,
+    "wish": "I want to sing and dance with the actors!",
+    "genre": "Musical"
+  },
+  {
+    "id": 1807,
+    "wish": "They say the music and choreography in this movie is the best ever done.",
+    "genre": "Musical"
+  },
+  {
+    "id": 1901,
+    "wish": "The mysteries of the universe are fascinating.",
+    "genre": "Space"
+  },
+  {
+    "id": 1902,
+    "wish": "The depths of space spark my imagination.",
+    "genre": "Space"
+  },
+  {
+    "id": 1903,
+    "wish": "I fantasize about the mysteries of the universe.",
+    "genre": "Space"
+  },
+  {
+    "id": 1904,
+    "wish": "Outer space is the great unknown!",
+    "genre": "Space"
+  },
+  {
+    "id": 1905,
+    "wish": "Every star holds limitless secrets to explore.",
+    "genre": "Space"
+  },
+  {
+    "id": 1906,
+    "wish": "Any movies about escaping earth to explore the unknown?",
+    "genre": "Space"
+  },
+  {
+    "id": 1907,
+    "wish": "Anyone want to watch a space movie with me?",
+    "genre": "Space"
+  },
+  {
+    "id": 2001,
+    "wish": "I never get tired of the classics.",
+    "genre": "Period"
+  },
+  {
+    "id": 2002,
+    "wish": "I love the thrill of period dramas.",
+    "genre": "Period"
+  },
+  {
+    "id": 2003,
+    "wish": "Drama in ancient times just hits differently.",
+    "genre": "Period"
+  },
+  {
+    "id": 2004,
+    "wish": "Traditional culture is intriguing!",
+    "genre": "Period"
+  },
+  {
+    "id": 2005,
+    "wish": "Life in ancient times is really fascinating!",
+    "genre": "Period"
+  },
+  {
+    "id": 2006,
+    "wish": "I love the props and costumes in movies set in ancient times.",
+    "genre": "Period"
+  },
+  {
+    "id": 2007,
+    "wish": "I want to experience life in ancient times through the movie!",
+    "genre": "Period"
+  },
+  {
+    "id": 2101,
+    "wish": "No matter how bad it gets, there's always light at the end of the tunnel.",
+    "genre": "Inspirational"
+  },
+  {
+    "id": 2102,
+    "wish": "Never give up on your dreams. They could come true one day.",
+    "genre": "Inspirational"
+  },
+  {
+    "id": 2103,
+    "wish": "I need positive vibes!",
+    "genre": "Inspirational"
+  },
+  {
+    "id": 2104,
+    "wish": "Hold on to hope! Never give up!",
+    "genre": "Inspirational"
+  },
+  {
+    "id": 2105,
+    "wish": "Life is all about never giving up.",
+    "genre": "Inspirational"
+  },
+  {
+    "id": 2106,
+    "wish": "I've been feeling down lately. I need a passionate movie to reignite that spark!",
+    "genre": "Inspirational"
+  },
+  {
+    "id": 2107,
+    "wish": "I heard the protagonist's struggles are based on real life events.",
+    "genre": "Inspirational"
+  },
+  {
+    "id": 2201,
+    "wish": "A time machine would be fantastic",
+    "genre": "Time-Travel"
+  },
+  {
+    "id": 2202,
+    "wish": "I wish I could go back in time too.",
+    "genre": "Time-Travel"
+  },
+  {
+    "id": 2203,
+    "wish": "I wonder how modern people would handle living in ancient times?",
+    "genre": "Time-Travel"
+  },
+  {
+    "id": 2204,
+    "wish": "The feelings they still have for each other after so many years is amazing.",
+    "genre": "Time-Travel"
+  },
+  {
+    "id": 2205,
+    "wish": "I wish I could experience the past for myself.",
+    "genre": "Time-Travel"
+  },
+  {
+    "id": 2206,
+    "wish": "I'd love to see what a modern person does when they go back in time.",
+    "genre": "Time-Travel"
+  },
+  {
+    "id": 2207,
+    "wish": "I love time travel movies!",
+    "genre": "Time-Travel"
+  },
+  {
+    "id": 2301,
+    "wish": "I can't resist giant mechas!",
+    "genre": "Robots"
+  },
+  {
+    "id": 2302,
+    "wish": "What does the rapid development of artificial intelligence truly mean for mankind?",
+    "genre": "Robots"
+  },
+  {
+    "id": 2303,
+    "wish": "The sound of electricity gets me all fired up.",
+    "genre": "Robots"
+  },
+  {
+    "id": 2304,
+    "wish": "Humans gave life to cold lifeless machines!",
+    "genre": "Robots"
+  },
+  {
+    "id": 2305,
+    "wish": "The technology involved in making this colossus is so cool!",
+    "genre": "Robots"
+  },
+  {
+    "id": 2306,
+    "wish": "I want to see these giant machines fight against each other!",
+    "genre": "Robots"
+  },
+  {
+    "id": 2307,
+    "wish": "What happens to humanity after transforming ourselves with machinery?",
+    "genre": "Robots"
+  },
+  {
+    "id": 2401,
+    "wish": "Can humans really subdue such giant awesome aggressive creatures?",
+    "genre": "Monster"
+  },
+  {
+    "id": 2402,
+    "wish": "These grotesque monsters make me scream every time.",
+    "genre": "Monster"
+  },
+  {
+    "id": 2403,
+    "wish": "It's so thrilling to watch giant prehistoric creatures fight against each other!",
+    "genre": "Monster"
+  },
+  {
+    "id": 2404,
+    "wish": "The visual effects are excellent! The monsters look like they're about to jump out from the screen.",
+    "genre": "Monster"
+  },
+  {
+    "id": 2405,
+    "wish": "Looks can be deceiving. A person can be kind under their terrifying exterior.",
+    "genre": "Monster"
+  },
+  {
+    "id": 2406,
+    "wish": "Giant powerful creatures are the best!",
+    "genre": "Monster"
+  },
+  {
+    "id": 2407,
+    "wish": "I think my heart would stop if that thing pounced on me.",
+    "genre": "Monster"
+  },
+  {
+    "id": 2501,
+    "wish": "Any movies that will make me hungry?",
+    "genre": "Culinary"
+  },
+  {
+    "id": 2502,
+    "wish": "I love how the director focuses on the people and food in the kitchen.",
+    "genre": "Culinary"
+  },
+  {
+    "id": 2503,
+    "wish": "The best measuring stick for a movie like this is whether or not it makes me hungry.",
+    "genre": "Culinary"
+  },
+  {
+    "id": 2504,
+    "wish": "I don't want to overeat so I'll just admire the food on the screen.",
+    "genre": "Culinary"
+  },
+  {
+    "id": 2505,
+    "wish": "This movie is going to tickle my taste buds.",
+    "genre": "Culinary"
+  },
+  {
+    "id": 2506,
+    "wish": "I'm not drooling. That's just my tears...",
+    "genre": "Culinary"
+  },
+  {
+    "id": 2507,
+    "wish": "A comfort movie that also makes me hungry. My favorite.",
+    "genre": "Culinary"
+  }
+ ]

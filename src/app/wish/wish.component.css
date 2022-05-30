@@ -1,0 +1,12 @@
+.col-genre {
+  width: 40%;
+}
+
+.col-delete {
+  width: 10%;
+}
+
+.selected-header {
+  display: flex;
+  justify-content: space-between;
+}
